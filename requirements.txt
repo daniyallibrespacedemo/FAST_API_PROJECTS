@@ -3,4 +3,7 @@ fastapi
 sqlalchemy
 python-jose
 pydantic
+pydantic[email]
 passlib[bcrypt]
+argon2
+bcrypt==4.0.1
